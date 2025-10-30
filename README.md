@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Real-Time Project Collaboration & Chat System (Node.js + Socket.IO + Redis + Gemini AI)
 
 ## 📖 Overview of Backend
@@ -213,3 +214,11 @@ It allows multiple users to:
 ## 🏁 License
 
     This project is licensed under the MIT License.
+=======
+Ai Powered Chat application 
+
+MERN 
+Redis
+WebSocket 
+Gemini -Ai
+>>>>>>> e6315d0ace8fe898229e346b2bcf6fee04442e9e
